@@ -10,6 +10,8 @@ namespace PruebaEjercicio
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hola Mundo");
+            Console.ReadLine();
         }
     }
 }
